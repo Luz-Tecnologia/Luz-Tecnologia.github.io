@@ -30,7 +30,6 @@ Depois abra http://localhost:8080.
 
 | Onde | O que fazer |
 | --- | --- |
-| `index.html`, seção **Projetos** (`#projetos`) | Os três cartões com `data-provisorio` são **exemplos**. Troque pelos projetos reais ou remova a seção. |
 | `index.html`, seção **Perguntas frequentes** (`#perguntas`) | Confira se as respostas (suporte, órgãos públicos, orçamento) refletem como a empresa trabalha. |
 | `index.html`, seções **Para quem** e **Sobre** | Revise o tom e as promessas, como "atenção à LGPD" e "decisões documentadas". |
 
